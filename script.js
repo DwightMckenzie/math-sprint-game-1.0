@@ -230,10 +230,6 @@ function createEquations() {
   }
 
   shuffle(equationsArray);
-  // console.log('equations array: ', equationsArray);
-
-  // equationsToDOM();
-
 }
 
 // add equations to DOM 
